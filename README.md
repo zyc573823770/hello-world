@@ -58,4 +58,5 @@ int main(){
 超链接为\[显示的值\]\(实际访问的地址\)[百度](https://www.baidu.com/)  
 使用\<链接\>直接访问链接地址<https://www.baidu.com/>  
 只想复制网址就可以用\`\`来把网址框起来，比如   `www.baidu.com`  
+<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">  
 
