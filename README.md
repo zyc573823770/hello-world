@@ -43,7 +43,7 @@ __粗体__
 * > 有序1里有块  
 * > 无序2里有块  
   
-```
+```c++
 #include<bits/stdc++>
 using namespace std;
 int main(){
