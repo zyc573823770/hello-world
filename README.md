@@ -43,7 +43,7 @@ __粗体__
 * > 有序1里有块  
 * > 无序2里有块  
 
-使用[^123]指定语言可以高亮  
+使用[key]:value  指定语言可以高亮  
 和C一样使用\\来转义  
 用\`\`\`包裹显示代码  
 ```c++
@@ -54,13 +54,3 @@ int main(){
     return 0;
 }
 ```  
-也可以用\`\`\`包裹流程图  
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
