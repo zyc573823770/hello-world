@@ -58,5 +58,10 @@ int main(){
 超链接为\[显示的值\]\(实际访问的地址\)[百度](https://www.baidu.com/)  
 使用\<链接\>直接访问链接地址<https://www.baidu.com/>  
 只想复制网址就可以用\`\`来把网址框起来，比如   `www.baidu.com`  
+***
+本地图片无法调用，需要给出网络连接，最简单的就是直接上传到本项目里，然后链接调用  
+\!\[我猜这里是无法加载图片显示的文字\]\(图片的链接\)和网址区别在于前面多一个\!  
+![测试图片](https://github.com/zyc573823770/hello-world/blob/master/AttnGAN.png?raw=true)  
+可以使用\<img\>标签，下图为`<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">  `
 <img src="http://static.runoob.com/images/runoob-logo.png" width="50%">  
 
